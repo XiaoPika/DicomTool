@@ -5,5 +5,5 @@
 - easy to made
 - compatible with Neusoft and TianJian PACS
 
-There is not any kind of support or trouble shoting services.
+There is no any kind of support or trouble shoting services here.
 
